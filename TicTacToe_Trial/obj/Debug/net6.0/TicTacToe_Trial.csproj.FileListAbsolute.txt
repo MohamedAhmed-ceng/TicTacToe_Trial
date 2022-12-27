@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\bin\Debug\net6.0\TicTacToe_Trial.exe
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\bin\Debug\net6.0\TicTacToe_Trial.deps.json
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\bin\Debug\net6.0\TicTacToe_Trial.runtimeconfig.json
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\bin\Debug\net6.0\TicTacToe_Trial.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\bin\Debug\net6.0\TicTacToe_Trial.pdb
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\TicTacToe_Trial.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\TicTacToe_Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\TicTacToe_Trial.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\TicTacToe_Trial.AssemblyInfo.cs
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\TicTacToe_Trial.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\TicTacToe_Trial.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\refint\TicTacToe_Trial.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\TicTacToe_Trial.pdb
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\TicTacToe_Trial.genruntimeconfig.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\TicTacToe_Trial\obj\Debug\net6.0\ref\TicTacToe_Trial.dll
